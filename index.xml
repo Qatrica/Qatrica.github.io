@@ -7,35 +7,20 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>Qatrica.</copyright>
-        <lastBuildDate>Sun, 26 Jan 2025 21:39:59 +0800</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>第6次测试</title>
-        <link>http://localhost:1313/p/%E7%AC%AC6%E6%AC%A1%E6%B5%8B%E8%AF%95/</link>
-        <pubDate>Sun, 26 Jan 2025 21:39:59 +0800</pubDate>
+        <lastBuildDate>Sun, 26 Jan 2025 22:57:44 +0800</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>最终的测试</title>
+        <link>http://localhost:1313/p/%E6%9C%80%E7%BB%88%E7%9A%84%E6%B5%8B%E8%AF%95/</link>
+        <pubDate>Sun, 26 Jan 2025 22:57:44 +0800</pubDate>
         
-        <guid>http://localhost:1313/p/%E7%AC%AC6%E6%AC%A1%E6%B5%8B%E8%AF%95/</guid>
-        <description>&lt;h4 id=&#34;让我上传成功吧&#34;&gt;让我上传成功吧
-&lt;/h4&gt;&lt;blockquote&gt;
-&lt;p&gt;这里是一些公式测试&lt;/p&gt;
-&lt;p&gt;hhhhhh&lt;/p&gt;
+        <guid>http://localhost:1313/p/%E6%9C%80%E7%BB%88%E7%9A%84%E6%B5%8B%E8%AF%95/</guid>
+        <description>&lt;h4 id=&#34;为什么本地文件删除后部署后又出现了&#34;&gt;为什么本地文件删除后，部署后又出现了？？
+&lt;/h4&gt;$$
+a+b=c
+$$&lt;blockquote&gt;
+&lt;p&gt;假装上为公式&lt;/p&gt;
 &lt;/blockquote&gt;
-$$
-\mathbf{V}_1 \times \mathbf{V}_2 =  \begin{vmatrix}
-\mathbf{i} &amp; \mathbf{j} &amp; \mathbf{k} \\
-\frac{\partial X}{\partial u} &amp;  \frac{\partial Y}{\partial u} &amp; 0 \\
-\frac{\partial X}{\partial v} &amp;  \frac{\partial Y}{\partial v} &amp; 0 \\
-\end{vmatrix}
-$$</description>
-        </item>
-        <item>
-        <title>MyFirstBlog</title>
-        <link>http://localhost:1313/p/myfirstblog/</link>
-        <pubDate>Sat, 25 Jan 2025 19:44:10 +0800</pubDate>
-        
-        <guid>http://localhost:1313/p/myfirstblog/</guid>
-        <description>&lt;h3 id=&#34;hello-world&#34;&gt;Hello World
-&lt;/h3&gt;$$
-a^x+b^x=1
-$$</description>
+&lt;h4 id=&#34;再试一次&#34;&gt;再试一次
+&lt;/h4&gt;</description>
         </item>
         <item>
         <title>Chinese Test</title>
